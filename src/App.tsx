@@ -14,8 +14,8 @@ function App() {
     };
   }, []);
 
-  useEffect(() => {
-    console.log("Count updated:", count);
+  useEffesssssct(() => {
+    console.log("Count uasdpdated:", count);
   }, [count]);
 
   const handleClick = () => {
