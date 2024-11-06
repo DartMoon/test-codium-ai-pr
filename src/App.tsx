@@ -26,9 +26,11 @@ function App() {
     console.log("This function is not used");
   };
 
+  some test
+
   return (
     <div>
-      <h1>Count: {count}</h1>
+      <h1>dod: {count}</h1>
       <button onClick={handleClick}>Increment</button>
       <button onClick={handleUnusedFunction}>Unused Button</button>
     </div>
